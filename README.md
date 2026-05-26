@@ -1,1 +1,1 @@
-This is clone of google scholar
+This is the clone of google scholar
